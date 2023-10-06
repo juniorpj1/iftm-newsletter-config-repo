@@ -37,6 +37,7 @@ newsletter:
     exchange: newsletter.exchange
     routingKey: newsletter.post.routingKey
     queue: newsletter.queue
+    queue2: testando-config-server
 
 # Mostrar Queries MongoDB no Terminal:
 logging:
