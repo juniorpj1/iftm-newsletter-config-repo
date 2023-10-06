@@ -9,7 +9,7 @@ spring:
   rabbitmq:
     addresses: amqps://deipzzxi:V5qesrSwgQYQkK7C3Pd3sU9ZFERBJx6E@shark.rmq.cloudamqp.com/deipzzxi
     queue: newsletter.queue
-  management:
+management:
   endpoints:
     web:
       exposure:
